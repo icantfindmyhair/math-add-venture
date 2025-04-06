@@ -1,6 +1,6 @@
-# untitled2
+# Math Add Venture!
 
-A new Flutter project.
+First Flutter mobile app project. Apr 2025
 
 ## Getting Started
 
